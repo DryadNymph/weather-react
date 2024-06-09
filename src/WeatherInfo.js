@@ -11,11 +11,11 @@ export default function WeatherInfo(props) {
           <h1>{props.data.city}</h1>
           <ul>
             <li>
-              <FormattedDate date={props.data.data} />, {props.data.description}
+              <FormattedDate date={props.data.date} />, {props.data.description}
             </li>
             <li>
               Humidity: <strong>{props.data.humidity}%</strong>, Wind:{""}
-              <strong>{props.data.data.wind}km/h</strong>
+              <strong>{props.data.wind}km/h</strong>
             </li>
           </ul>
         </div>
