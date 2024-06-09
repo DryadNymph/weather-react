@@ -85,7 +85,7 @@ lali-nibladze146151019960916
           {""}
           and is {""}
           <a
-            href="https://github.com/shecodesio/weather"
+            href="https://github.com/DryadNymph/weather-react"
             target="_blank"
             rel="noopener noreferrer"
           >
