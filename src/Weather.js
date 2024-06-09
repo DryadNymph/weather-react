@@ -93,7 +93,7 @@ lali-nibladze146151019960916
           {""}
           and {""}
           <a
-            href="https://shecodes-weather.netlify.app/"
+            href="https://ephemeral-chimera-9b9364.netlify.app/"
             target="_blank"
             rel="noopener noreferrer"
           >
