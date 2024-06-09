@@ -88,7 +88,7 @@ lali-nibladze146151019960916
             target="_blank"
             rel="noopener noreferrer"
           >
-            open-sourced on github
+            open-sourced on GitHub
           </a>{" "}
           {""}
           and {""}
