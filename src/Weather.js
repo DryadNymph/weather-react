@@ -82,8 +82,7 @@ lali-nibladze146151019960916
           >
             Lali Nibladze
           </a>
-          {""}
-          and is {""}
+          {""} and is {""}
           <a
             href="https://github.com/DryadNymph/weather-react"
             target="_blank"
@@ -92,7 +91,7 @@ lali-nibladze146151019960916
             open-sourced on github
           </a>{" "}
           {""}
-          and{""}
+          and {""}
           <a
             href="https://shecodes-weather.netlify.app/"
             target="_blank"
